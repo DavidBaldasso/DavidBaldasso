@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DavidBaldasso
 - 👀 I’m interested in OO, AI , VR
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning
 
 <!---
 DavidBaldasso/DavidBaldasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
