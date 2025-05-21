@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DavidBaldasso
-- 👀 I’m interested in OO, AI , VR
 - 🌱 I’m currently learning
 
 <!---
